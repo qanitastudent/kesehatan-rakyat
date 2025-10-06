@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.90.2",
+    "axios": "^1.12.2",
+    "leaflet": "^1.9.4",
+    "react-hook-form": "^7.63.0",
+    "react-leaflet": "^5.0.0",
+    "zod": "^4.1.11"
+  }
+}
